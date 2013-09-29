@@ -1,0 +1,15 @@
+{
+  "name": "Bards",
+  "version": "0.0.0",
+  "description": "Basic AR Drone Sequencing.  Very restricted DSL for letting kids program Parrot drones.",
+  "main": "bards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Helge S. Holm <helge.holm@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "ar-drone": "~0.2.0"
+  }
+}
